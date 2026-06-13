@@ -27,8 +27,7 @@ The **Humanoid Workbench** is a specific implementation optimized for humanoid r
 ## Documents
  
 - **Full Document (English, PDF):** AI_Humanoid_Workbench_v3_0.pdf
-- **Full Document (English, Word):** AI_Humanoid_Workbench_v3_0.docx
-- **Full Document (German, Word):** KI_Humanoid_Werkbank_v3_0_DE.docx
+- **Full Document (German, PDF):** KI_Humanoid_Werkbank_v3_0_DE.pdf
 - **Website:** humanoidworkbench.com
 ---
  
