@@ -381,6 +381,7 @@ Where task complexity, latency requirements, data privacy, or operational contin
 - Processes sensor data locally to minimize latency and preserve operational privacy
 - Coordinates with the robot via standard network protocols (Ethernet, WiFi, or direct bus) rather than proprietary cloud APIs
 - Is sized to the workbench's task domain — from embedded edge devices for simple routines to multi-GPU workstations for complex manipulation
+- May run one or more robotic systems completely by itself, independently or in coordinated task sequences. 
 
 The local compute node may be physically integrated into the workbench chassis, sharing power distribution, thermal management, and the safety stop circuit. It belongs to the operator, runs offline, and keeps task data on-site.
 
