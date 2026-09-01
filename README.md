@@ -42,41 +42,41 @@ By publishing and promoting these concepts as open terminology, the intent is to
 
 - [3. Market Context and Problem Statement](#3-market-context-and-problem-statement)
 
-- 4. Legal Definition Framework
+- [4. Legal Definition Framework](#4-legal-definition-framework)
 
-- 5. Scope Definition and Boundaries
+- [5. Scope Definition and Boundaries](#5-scope-definition-and-boundaries)
 
-- 6. Key Technical Challenges
+- [6. Key Technical Challenges](#6-key-technical-challenges)
 
-- 7. Core Principles
+- [7. Core Principles](#7-core-principles)
 
-- 8. Technical Architecture and Solution Space
+- [8. Technical Architecture and Solution Space](#8-technical-architecture-and-solution-space)
 
-- 9. Communication Layer and Integrated Communication Types
+- [9. Communication Layer and Integrated Communication Types](#9-communication-layer-and-integrated-communication-types)
 
-- 10. Multi-Workbench Coordination and Data Sharing
+- [10. Multi-Workbench Coordination and Data Sharing](#10-multi-workbench-coordination-and-data-sharing)
 
-- 11. Augmentators Ecosystem
+- [11. Augmentators Ecosystem](#11-augmentators-ecosystem)
 
-- 12. Economic Model
+- [12. Economic Model](#12-economic-model)
 
-- 13. Robotic Learning Integration
+- [13. Robotic Learning Integration](#13-robotic-learning-integration)
 
-- 14. Application Domains
+- [14. Application Domains](#14-application-domains)
 
-- 15. Second-Life and Cross-Climate Robot Redeployment
+- [15. Second-Life and Cross-Climate Robot Redeployment](#15-second-life-and-cross-climate-robot-redeployment)
 
-- 16. Governance and Enforcement
+- [16. Governance and Enforcement](#16-governance-and-enforcement)
 
-- 17. Implementation Roadmap
+- [17. Implementation Roadmap](#17-implementation-roadmap)
 
-- 18. The Alignment Problem
+- [18. The Alignment Problem](#18-the-alignment-problem)
 
-- 19. Prior Art and Defensive Claims
+- [19. Prior Art and Defensive Claims](#19-prior-art-and-defensive-claim)
 
-- 20. Public Domain Declaration
+- [20. Public Domain Declaration](#20-public-domain-declaration)
 
-- 21. Document Versioning and Updates
+- [21. Document Versioning and Updates](#21-document-versioning-and-updates)
 
 ## 1. Executive Summary
 
