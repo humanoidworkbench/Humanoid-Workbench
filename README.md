@@ -40,7 +40,7 @@ By publishing and promoting these concepts as open terminology, the intent is to
 
 - [2. Introduction](#2-introduction)
 
-- 3. Market Context and Problem Statement
+- [3. Market Context and Problem Statement](#3-market-context-and-problem-statement)
 
 - 4. Legal Definition Framework
 
