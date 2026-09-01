@@ -36,49 +36,49 @@ By publishing and promoting these concepts as open terminology, the intent is to
 
 ## Table of Contents
 
-- Executive Summary
+- 1. [Executive Summary](#1)
 
-- Introduction
+- 2. Introduction
 
-- Market Context and Problem Statement
+- 3. Market Context and Problem Statement
 
-- Legal Definition Framework
+- 4. Legal Definition Framework
 
-- Scope Definition and Boundaries
+- 5. Scope Definition and Boundaries
 
-- Key Technical Challenges
+- 6. Key Technical Challenges
 
-- Core Principles
+- 7. Core Principles
 
-- Technical Architecture and Solution Space
+- 8. Technical Architecture and Solution Space
 
-- Communication Layer and Integrated Communication Types
+- 9. Communication Layer and Integrated Communication Types
 
-- Multi-Workbench Coordination and Data Sharing
+- 10. Multi-Workbench Coordination and Data Sharing
 
-- Augmentators Ecosystem
+- 11. Augmentators Ecosystem
 
-- Economic Model
+- 12. Economic Model
 
-- Robotic Learning Integration
+- 13. Robotic Learning Integration
 
-- Application Domains
+- 14. Application Domains
 
-- Second-Life and Cross-Climate Robot Redeployment
+- 15. Second-Life and Cross-Climate Robot Redeployment
 
-- Governance and Enforcement
+- 16. Governance and Enforcement
 
-- Implementation Roadmap
+- 17. Implementation Roadmap
 
-- The Alignment Problem
+- 18. The Alignment Problem
 
-- Prior Art and Defensive Claims
+- 19. Prior Art and Defensive Claims
 
-- Public Domain Declaration
+- 20. Public Domain Declaration
 
-- Document Versioning and Updates
+- 21. Document Versioning and Updates
 
-## 1. Executive Summary
+## 1. Executive Summary {#1}
 
 The AI Workbench is a governed infrastructure layer, not a single product. It sits between AI systems and the tools, machines, software, and workflows they use. It enables software-based, robotic, and hybrid AI systems to access physical tools and digital services through defined interfaces, permissions, validation, and audit records. This reduces the need for every capability to be built into the AI system itself. The Workbench may also include AI components, such as local models, perception systems, safety monitors, and orchestration agents, as part of its governed infrastructure.
 
