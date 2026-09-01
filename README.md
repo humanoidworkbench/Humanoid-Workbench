@@ -78,7 +78,7 @@ By publishing and promoting these concepts as open terminology, the intent is to
 
 - 21. Document Versioning and Updates
 
-## 1. Executive Summary {#1}
+## 1. Executive Summary{#1}
 
 The AI Workbench is a governed infrastructure layer, not a single product. It sits between AI systems and the tools, machines, software, and workflows they use. It enables software-based, robotic, and hybrid AI systems to access physical tools and digital services through defined interfaces, permissions, validation, and audit records. This reduces the need for every capability to be built into the AI system itself. The Workbench may also include AI components, such as local models, perception systems, safety monitors, and orchestration agents, as part of its governed infrastructure.
 
