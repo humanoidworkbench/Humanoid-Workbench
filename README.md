@@ -38,7 +38,7 @@ By publishing and promoting these concepts as open terminology, the intent is to
 
 - [1. Executive Summary](#1-executive-summary)
 
-- 2. Introduction
+- [2. Introduction](#2-introduction)
 
 - 3. Market Context and Problem Statement
 
